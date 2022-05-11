@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.200826.002 V13.0.2.0.RKXMIXM release-keys
+- manufacturer: xiaomi
+- platform: msmnile
+- codename: nabu
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200826.002
+- incremental: V13.0.2.0.RKXMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/nabu_global/nabu:11/RKQ1.200826.002/V13.0.2.0.RKXMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: qssi-user-11-RKQ1.200826.002-V13.0.2.0.RKXMIXM-release-keys
+- repo: xiaomi_nabu_dump
